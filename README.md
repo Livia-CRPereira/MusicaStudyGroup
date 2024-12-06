@@ -1,4 +1,4 @@
-<h1 align="center"> 🎵 Grupo de Estudos de Música 🎵 </h1>
+`<h1 align="center">` 🎵 Grupo de Estudos de Música 🎵 `</h1>`
 
 <p>Esse repositório possui dados e códigos de análise envolvendo temas culturais, centrados principalmente na análise da 
   evolução musicla do povo brasileiro ao longo do tempo.</p>
@@ -14,7 +14,7 @@
 
 # 👀 Objetivos
 
-Desenvolver aprendizados adquiridos no curso de ciência de dados, analisar dados culturais do Brasil e entender melhor o que eles dizem sobre nosso povo. 
+Desenvolver aprendizados adquiridos no curso de ciência de dados, analisar dados culturais do Brasil e entender melhor o que eles dizem sobre nosso povo.
 
 # ✔️ Tecnologias Utilizadas
 
@@ -24,6 +24,5 @@ Desenvolver aprendizados adquiridos no curso de ciência de dados, analisar dado
 
 # 👩 Autores
 
-| [<img src="https://i.imgur.com/OO9DSbF.jpg" width=115><br><sub>Lívia Caroline</sub>](https://github.com/Livia-CRPereira) |
-| :--------------------------------------------------------------------------------------------------------------------------: |
-
+| [`<img src="https://i.imgur.com/OO9DSbF.jpg" width=115><br>``<sub>`Lívia Caroline`</sub>`](https://github.com/Livia-CRPereira) |
+| :--------------------------------------------------------------------------------------------------------------------------------: |
