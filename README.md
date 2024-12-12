@@ -1,4 +1,4 @@
-`<h1 align="center">` 🎵 Grupo de Estudos de Música 🎵 `</h1>`
+<h1 align="center"> 🎵 Grupo de Estudos de Música 🎵 </h1>
 
 <p>Esse repositório possui dados e códigos de análise envolvendo temas culturais, centrados principalmente na análise da 
   evolução musicla do povo brasileiro ao longo do tempo.</p>
