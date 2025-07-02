@@ -1,0 +1,3 @@
+Primeiramente, foi realizado um webScrapping para pegar o titulo, autor e ano das músicas. Músicas com apenas o título foram adicionadas sem autor e ano.
+Das 774 músicas, o código conseguiu coletar o título de 772, com erro ao tentar acessar a página de 2. 
+Dessas, 337 contém título, autor e ano.
