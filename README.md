@@ -23,6 +23,9 @@
 - `Notebook Python`
 - `Pandas, Babypandas, Matplotlib, youtube-search-python`
 
+# ❗ Observações importantes
+A pasta billboard possui códigos para baixar áudios de músicas do youtube, mas os áudios não estão disponíveis aqui. Porém, sintam-se livres para utilizar o código. O objetivo final do grupo de estudos eram análises, então não foi necessário manter os aúdios baixados. a pasta realbook, por outro lado, tem códigos sobre as músicas do realbook.com, sendo utilizados para baixar áudios a serem usados na criação de uma inteligência artificial. Esses áudios podem ser encontrados em sua pasta compactada no endereço: https://drive.google.com/file/d/13faAUWCs3gVRKTbds7uBpKIRKmlmPpoX/view?usp=sharing
+
 # 👩 Autores
 
 Grupo de Extensão de Música guiado pelo professor Flávio Figueiredo, com o auxílio de alunos do laboratório UAI e organizados no Departamento de Ciência da Computação, na Universidade Federa de Minas Gerais.
