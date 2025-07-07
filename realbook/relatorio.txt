@@ -1,3 +1,9 @@
 Primeiramente, foi realizado um webScrapping para pegar o titulo, autor e ano das músicas. Músicas com apenas o título foram adicionadas sem autor e ano.
 Das 774 músicas, o código conseguiu coletar o título de 772, com erro ao tentar acessar a página de 2. 
-Dessas, 337 contém título, autor e ano.
+
+As 772 músicas foram então baixadas, de maneira que, se tenho o autor, busco por título e autor e se tenho apenas o título, 
+busco apenas por ele. Foram separadas em 2 pastas: busca_completa e busca_por_titulo. 
+A pasta busca_completa terminou com 336 arquivos mp3. 
+A pasta busca_por_titulo terminou com 434 arquivos mp3.
+
+Ou seja, 2 música não foram baixadas. Foram elas: Колыбельная e Зима.
